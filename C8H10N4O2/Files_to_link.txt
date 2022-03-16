@@ -1,0 +1,23 @@
+@ Should be added lib file (embedded)
+・d3d11.lib
+・dxgi.lib
+・Shlwapi.lib
+
+@ Should be added lib file (external)
+・DirectXTK.lib(debug)
+・zlib-md.lib(debug)
+・libxml2-md.lib(debug)
+・libfbxsdk-md.lib(debug)
+
+・DirectXTK.lib(release)
+・zlib-md.lib(release)
+・libxml2-md.lib(release)
+・libfbxsdk-md.lib(release)
+
+
+@ Should be added include file (external)
+・WICTextureLoader.h
+・DDSTextureLoader.h
+・ImGui Relation
+・fbxsdk Relation
+・cereal Relation
